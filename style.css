@@ -1,0 +1,23 @@
+
+.top-block {
+    background-color: #1F2937;
+    color: white;
+}
+
+.header {
+    display: flex;
+    padding: 6px;
+}
+
+.header-link {
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+    padding-right: 6px;
+    gap: 16px;
+    font-size: 0.8rem;            
+}
+
+.top-block-content {
+    display: flex;
+}
